@@ -13,7 +13,7 @@
   "licenses": "MIT",
   "spm": {
     "output": [
-      "tmp.js"
+      "tmp1.js"
     ],
     "alias": {},
     "devAlias": {},
