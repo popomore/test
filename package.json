@@ -1,34 +1,5 @@
 {
-  "name": "spm-bump",
+  "name": "popomore-test",
   "description": "bump version",
-  "version": "14.65.0",
-  "homepage": "https://github.com/popomore/spm-bump",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/popomore/spm-bump.git"
-  },
-  "dependencies": {
-    "semver": "*",
-    "procstreams": "*",
-    "commander": "2.1.0"
-  },
-  "bugs": {
-    "url": "https://github.com/popomore/spm-bump/issues"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/popomore/spm-bump/blob/master/LICENSE-MIT"
-    }
-  ],
-  "bin": {
-    "spm-bump": "bin/spm-bump"
-  },
-  "keywords": [
-    "spmplugin"
-  ],
-  "scripts": {
-    "postinstall": "node scripts/postinstall.js",
-    "uninstall": "node scripts/uninstall.js"
-  }
+  "version": "15.65.0"
 }
