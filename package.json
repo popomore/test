@@ -1,7 +1,7 @@
 {
   "name": "spm-bump",
   "description": "bump version",
-  "version": "2.35.0",
+  "version": "3.35.0",
   "homepage": "https://github.com/popomore/spm-bump",
   "repository": {
     "type": "git",
